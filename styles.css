@@ -5,3 +5,6 @@ color:#00f;
 	font-family:Arial;
 	font-size:20px;
 }
+.selector {
+  color: blue; /* rgb(0, 0, 255) */
+}
